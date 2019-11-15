@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\tund11\DogBreedEnum1\bin\Debug\DogBreedEnum1.exe.config
+C:\Users\opilane\projects\tund11\DogBreedEnum1\bin\Debug\DogBreedEnum1.exe
+C:\Users\opilane\projects\tund11\DogBreedEnum1\bin\Debug\DogBreedEnum1.pdb
+C:\Users\opilane\projects\tund11\DogBreedEnum1\obj\Debug\DogBreedEnum1.csprojAssemblyReference.cache
+C:\Users\opilane\projects\tund11\DogBreedEnum1\obj\Debug\DogBreedEnum1.exe
+C:\Users\opilane\projects\tund11\DogBreedEnum1\obj\Debug\DogBreedEnum1.pdb

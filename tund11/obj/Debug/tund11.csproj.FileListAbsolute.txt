@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\tund11\tund11\bin\Debug\tund11.exe.config
+C:\Users\opilane\projects\tund11\tund11\bin\Debug\tund11.exe
+C:\Users\opilane\projects\tund11\tund11\bin\Debug\tund11.pdb
+C:\Users\opilane\projects\tund11\tund11\obj\Debug\tund11.csprojAssemblyReference.cache
+C:\Users\opilane\projects\tund11\tund11\obj\Debug\tund11.exe
+C:\Users\opilane\projects\tund11\tund11\obj\Debug\tund11.pdb

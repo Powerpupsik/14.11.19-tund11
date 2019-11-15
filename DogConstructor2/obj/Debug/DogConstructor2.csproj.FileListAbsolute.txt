@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\tund11\DogConstructor2\bin\Debug\DogConstructor2.exe.config
+C:\Users\opilane\projects\tund11\DogConstructor2\bin\Debug\DogConstructor2.exe
+C:\Users\opilane\projects\tund11\DogConstructor2\bin\Debug\DogConstructor2.pdb
+C:\Users\opilane\projects\tund11\DogConstructor2\obj\Debug\DogConstructor2.exe
+C:\Users\opilane\projects\tund11\DogConstructor2\obj\Debug\DogConstructor2.pdb
+C:\Users\opilane\projects\tund11\DogConstructor2\obj\Debug\DogConstructor2.csprojAssemblyReference.cache
